@@ -1,0 +1,375 @@
+body{
+    width: 1150px;
+    margin: 0 auto;
+    background: pink;
+}
+/*----------------------row 1 -----------------------*/
+.row1{
+    height: 84px;
+    width: 100%;
+    background: black;
+}
+.mid {
+    width: 1150px;
+    margin: 0 auto;
+}
+.title{
+    
+}
+.title h1 {
+    color: red;
+    font-family: cursive;
+    margin-left: 22px;
+}
+
+.menu{
+    
+}
+.menu ul {
+    margin-left: 153px;
+    margin-top: 9px;
+}
+.menu ul li {
+    display: inline-block;
+    padding: 18px;
+    font-size: 17px;
+    padding-left: -6px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+.menu ul li a:hover{
+    color: red;
+/*    background: lime;*/
+}
+/*----------------------row 2 -----------------------*/
+.row2{
+    height: 615px;
+    width: 100%;
+    background: black;
+}
+.mid {
+    width: 1150px;
+    margin: 0 auto;
+}
+.heading {
+    color: #fff;
+    padding-top: 124px;
+    padding-left: 116px;
+}
+.heading h3 {
+    font-size: 30px;
+    margin-bottom: -26px;
+    font-family: cursive;
+}
+.heading h1 {
+    font-size: 86px;
+    color: red;
+    font-family: emoji;
+}
+.heading h2 {
+    margin-top: -12px;
+    font-size: 23px;
+    font-family: cursive;
+}
+.heading button {
+    margin-top: 56px;
+    color: #fff;
+    background: red;
+    border: 2px solid red;
+    padding: 5px;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 13px;
+    border-radius: 8px;
+}
+.heading button:hover{
+    background: black;
+    color: red;
+}
+.heading button p {
+    font-size: 21px;
+}
+.image_pri{}
+.image_pri img {
+    height: 769px;
+    margin-top: -154px;
+    margin-left: 13px;
+}
+/*----------------------row 3 -----------------------*/
+.row3 {
+    height: 615px;
+    width: 1150px;
+    background: #fff;
+    margin-top: -20px;
+}
+.title_row3 {
+/*    border-bottom: 5px solid black;*/
+/*    padding-bottom: -15px;*/
+}
+.title_row3 br{}
+.title_row3 p {
+    /* margin: 0 auto; */
+    margin-left: 561px;
+    font-size: 21px;
+    margin-top: -38px;
+    color: red;
+}
+.title_row3 h1 {
+    margin-left: 510px;
+    font-size: 46px;
+    font-family: system-ui;
+    margin-bottom: 15px;
+    padding-top: 22px;
+}
+.about_des{
+    
+}
+.about_img{}
+.about_img img {
+    height: 371px;
+    width: 301px;
+    margin-left: 104px;
+    margin-top: 56px;
+}
+.about_me {
+    margin-left: 104px;
+    padding-top: 89px;
+}
+.about_me h2 {
+    font-size: 29px;
+    font-family: monospace;
+}
+.about_me p {
+    font-size: 20px;
+}
+.about_me button {
+    padding: 13px;
+    border-radius: 5px;
+    color: #fff;
+    background: red;
+    border: 2px solid red;
+    font-size: 23px;
+}
+.about_me button:hover{
+    background: #fff;
+    color: red;
+}
+/*----------------------row 4 -----------------------*/
+.row4{
+    height: 615px;
+    width: 1150px;
+    background: black;
+    margin-top: -20px;
+}
+.service_section{}
+.service_title {
+   margin-left: 448px;
+    color: #fff;
+    padding: 15px;
+}
+.service_title h1 {
+    font-family: system-ui;
+    font-size: 45px;
+    
+}
+.service_title p {
+    font-size: 22px;
+    color: red;
+    margin-left: 48px;
+    margin-top: -23px;
+}
+.services {
+    color: #fff;
+    margin-top: 132px;
+   
+    background: lime;
+}
+.service_des {
+    width: 373px;
+    padding-left: 86px;
+    height: 300px;
+/*    margin-top: -3ox;*/
+}
+.service_des i {
+    color: red;
+    margin-left: 89px;
+    margin-top: -52px;
+}
+.service_des h1 {
+    margin-left: 13px;
+    padding: 21px;
+    font-size: 35px;
+    padding-top: 15px;
+    padding-bottom: 14px;
+}
+.service_des p {
+    font-size: 17px;
+    text-align: -webkit-center;
+    padding-right: 19px;
+}
+/*----------------------row 5 -----------------------*/
+.row5{
+    height: 615px;
+    width: 1150px;
+    background: #fff;
+    margin-top: -20px;
+}
+.skill_section{}
+.skill_heading{
+    text-align: center;
+}
+.skill_heading h1 {
+    padding-top: 37px;
+    font-family: system-ui;
+    font-size: 45px;
+}
+.skill_heading p{
+    font-size: 22px;
+    color: red;
+}
+.about_skill {
+    margin-top: 61px;
+}
+.about_skill h4 {
+    font-size: 30px;
+    padding-left: 61px;
+    font-family: math;
+}
+.about_skill p {
+    font-size: 20px;
+    padding-left: 60px;
+    padding-top: 18px;
+}
+.about_skill button {
+    /* padding-left: 3px; */
+    margin-left: 59px;
+    margin-top: 13px;
+    padding: 10px 25px 10px 25px;
+    font-size: 20px;
+    border: 2px solid red;
+    background: red;
+    color: #fff;
+    border-radius: 6px;
+}
+.about_skill button:hover{
+    background: #fff;
+    color: red;
+}
+.progress_section{
+        margin-top: 76px;
+}
+.progress_section p {
+    font-size: 15px;
+    padding-left: 0px;
+}
+/*----------------------row 6 -----------------------*/
+.row6{
+    height: 615px;
+    width: 1150px;
+    background: black;
+    margin-top: -20px;
+}
+.my_project{}
+.project_title{
+    text-align: center;
+}
+.project_title h1{
+    padding-top: 37px;
+    font-family: system-ui;
+    font-size: 45px;
+    color: #fff;
+}
+.project_title p{
+    font-size: 22px;
+    color: red;
+}
+.projects_d {
+    margin-left: 125px;
+    margin-top: 81px;
+}
+/*----------------------row 7 -----------------------*/
+.row7{
+    height: 615px;
+    width: 1150px;
+    background: #fff;
+    margin-top: -20px;
+}
+.contact_section{}
+.contact_title {
+    text-align: center;
+    margin-bottom: 74px;
+}
+.contact_title h1{
+    padding-top: 37px;
+    font-family: system-ui;
+    font-size: 45px;
+    color: black;
+}
+.contact_title p {
+    font-size: 22px;
+    color: red;
+    margin-top: -5px;
+}
+.contact_part{}
+.contact_address {
+    padding-left: 100px;
+}
+.contact_address h4 {
+    font-size: 26px;
+    padding-bottom: 5px;
+}
+.contact_address p {
+    font-size: 18px;
+}
+.contect_by {
+    margin-left: 84px;
+    margin-top: 18px;
+}
+.contact_name{}
+.contact_name i {
+    color: red;
+}
+.contact_name h3 {
+    /* padding-top: 0px; */
+    margin-top: 0px;
+    margin-left: -15px;
+}
+.contact_name p {
+    padding-top: -13px;
+    margin-top: -16px;
+    margin-left: -16px;
+}
+.form_section {
+    margin-left: 11px;
+    margin-top: -9px;
+}
+.form_section h2{}
+/*----------------------footer -----------------------*/
+.pritom {
+    background: black;
+    height: 30px;
+    width: 1150px;
+    margin-left: 15px;
+    text-align: center;
+    color: #fff;
+    padding-top: 5px;
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
